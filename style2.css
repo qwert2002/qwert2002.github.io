@@ -1,0 +1,27 @@
+
+h1{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+header{
+    background-image:linear-gradient(rgba(22, 223, 230, 0.5),rgba(0,0,0,0.5)), url("Blue\ Modern\ Colorful\ Illustration\ Medical\ Flyer1.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.entry-forms{
+    position: absolute;
+    top: 15%;
+    left: 38%;
+    width: 30%;
+    margin: 2rem auto;
+    border: 2px solid gray;
+    padding: 2rem;
+    
+    
+}
+label{
+    position:auto;
+}
